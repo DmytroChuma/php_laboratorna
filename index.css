@@ -1,0 +1,92 @@
+h1 {
+  color: #000080;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+}
+P {
+  padding-left: 20px;
+}
+.form {
+	background: #00bbee;
+	border: thick double #000055;
+	border-radius: 30px;
+	padding: 30px;
+margin: 0 auto; 
+width:60%;
+height: 200px;
+}
+textarea {
+	width: 100%;
+	border: solid 2px #000000;
+	border-radius: 20px;
+	padding: 5px;
+	font-size: 12pt;
+	height: 20%;
+}
+.send {
+		background: #00bbee;
+	border: thick double #000055;
+	border-radius: 30px;
+	padding: 30px;
+margin: 0 auto; 
+width:60%;
+height: auto;
+}
+.container {
+	border: solid #ccee00;
+	padding: 10px;
+	border-radius: 20px;
+	margin-top: 10px;
+}
+input[type="radio"] {
+	width: 5%;
+}
+input{
+	width: 100%;
+	border: solid 2px #000000;
+	border-radius: 20px;
+	padding: 5px;
+	font-size: 12pt;
+}
+button {
+	width: 100%;
+	border: solid 2px #00ee;
+	border-radius: 40px;
+	background: #0033aa;
+	color: white;
+	padding: 5px;
+	cursor: pointer;
+	font-size: 12pt;
+}
+label {
+	font-size: 12pt;
+	width: 200px;
+	margin-left: 2%;
+	text-align: center;
+	font-family: Arial, Verdana, sans-serif;
+}
+.myclase {
+	font-size: 14pt;
+	padding: 10px;	
+	text-align: center;
+	margin-right: auto;
+    margin-left: auto;
+	border: thick double #000055;
+	background: #00bbee;
+	border-radius: 30px;
+	width:60%;
+	margin-top: 3%;
+}
+a {
+	width: 100%;
+    text-decoration: none;
+    cursor: pointer;
+	border: solid 2px #00ee;
+	border-radius: 40px;
+	background: #0033aa;
+	color: white;
+	padding: 5px;
+	padding-left: 36%;
+	padding-right: 36%;
+}
